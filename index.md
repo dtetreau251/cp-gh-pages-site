@@ -1,4 +1,4 @@
-## Welcome to My CP Blog
+## Welcome to My Code Platoon Blog
 
 I am glad you stopped by to learn all about what I am learning at Code Platoon
 
