@@ -1,4 +1,4 @@
-## Welcome to My Code Platoon PT Charlie Blog
+## Welcome to My CP Blog
 
 I am glad you stopped by to learn all about what I am learning at Code Platoon
 
